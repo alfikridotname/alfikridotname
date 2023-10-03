@@ -7,3 +7,5 @@ I am Web Developer. Find out more about me & feel free to connect with me here:
 
 ![alfikri's github stats](https://github-readme-stats.vercel.app/api?username=alfikridotname&show_icons=true&theme=light&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfikridotname&layout=compact&langs_count=8)](https://github.com/alfikridotname/github-readme-stats) 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfikridotname&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats)
