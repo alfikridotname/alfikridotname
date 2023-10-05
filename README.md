@@ -9,5 +9,6 @@ I am Web Developer. Find out more about me & feel free to connect with me here:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfikridotname&layout=compact&langs_count=8)](https://github.com/alfikridotname/github-readme-stats) 
 
 ---
-
+<center>
 [![GitHub Streak](https://streak-stats.demolab.com?user=alfikridotname&hide_border=true)](https://git.io/streak-stats)
+</center>
